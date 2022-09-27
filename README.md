@@ -1,3 +1,3 @@
-hyumanase dailynotes
+## hyumanase dailynotes
 
-https://github.com/hyumanase/dailynotes
+https://hyumanase.github.io/dailynotes/
